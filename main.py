@@ -1,5 +1,5 @@
 # Use uv add when you want to add packages
-import open_desktop as od
+import desktop_organiser.folder_functions as od
 from dotenv import load_dotenv
 import os
 
